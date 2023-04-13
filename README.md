@@ -1,5 +1,7 @@
 # Today I Learned - 이론 Wiki
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKimMinJeong05%2FTIL&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 > 모든 것을 기억할 수 없기에 자주 읽을려고 기록한다.  
 > 매일 기록하는 것보다 지치지않게 오래 기록하고싶다.
 
