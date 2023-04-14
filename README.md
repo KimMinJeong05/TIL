@@ -15,4 +15,4 @@
 
 ## 분류
 ### 운영체제
-- [01. 운영체제란](https://github.com/KimMinJeong05/TIL/blob/feature-add/OS/kocw_1_os.md)
+- [01. 운영체제란](https://github.com/KimMinJeong05/TIL/blob/main/OS/kocw_1_os.md)
