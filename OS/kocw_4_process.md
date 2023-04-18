@@ -1,5 +1,3 @@
-# CH3L1
-
 # 프로세스 관리
 
 ## 프로세스의 개념
@@ -94,7 +92,7 @@
 - 어떤 프로세스에게 자원을 할당하지 결정하는 OS 커널의 코드
 1. Long-term schedular(장기 스케줄러 or job scheduler)
     - 시작 프로세스 중 어떤 것들을 **ready queue**로 보낼 지 결정
-    - 프로세스에 **memory(및 각종 자원)**을 주는 문제
+    - 프로세스에 <b>memory(및 각종 자원)</b>을 주는 문제
     - degree of Multiprogramming(메모리에 여러 프로그램이 올라가는 것)을 제어
     - time sharing system에는 장기 스케줄러가 없고 무조건 ready 상태
 2. Short-term schedular(단기 스케줄러 or CPU scheduler)
@@ -181,3 +179,12 @@
         라이브러리를 통해 지원. Kernel은 Thread가 여러 개인 것을 모름
         
     3. Real Time Threads
+ 
+</br>
+
+### 레퍼런스
+
+---
+
+- 반효경, 운영체제, KOCW, [http://www.kocw.net/home/search/kemView.do?kemId=1046323](http://www.kocw.net/home/search/kemView.do?kemId=1046323)
+- 반효경, 운영체제와 정보기술의 원리
