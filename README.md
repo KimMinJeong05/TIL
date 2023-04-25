@@ -19,3 +19,4 @@
 - [02. 컴퓨터 시스템의 동작 원리](https://github.com/KimMinJeong05/TIL/blob/main/OS/kocw_2_system.md)
 - [03. 프로그램의 구조와 실행](https://github.com/KimMinJeong05/TIL/blob/main/OS/kocw_3_program.md)
 - [04. 프로세스 관리](https://github.com/KimMinJeong05/TIL/blob/main/OS/kocw_4_process.md)
+- [05. CPU 스케줄링](https://github.com/KimMinJeong05/TIL/blob/main/OS/kocw_5_cpuSchduling.md)
