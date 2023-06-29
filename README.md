@@ -21,3 +21,4 @@
 - [04. 프로세스 관리](https://github.com/KimMinJeong05/TIL/blob/main/OS/kocw_4_process.md)
 - [05. CPU 스케줄링](https://github.com/KimMinJeong05/TIL/blob/main/OS/kocw_5_cpuSchduling.md)
 - [06. 프로세스 동기화](https://github.com/KimMinJeong05/TIL/blob/main/OS/kocw_6_processSync.md)
+- [07. Deadlock](https://github.com/KimMinJeong05/TIL/blob/main/OS/kocw_7_deadlock.md)
